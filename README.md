@@ -2,3 +2,4 @@
 
 This is the lesson on Conditinal Statements at Codecademy
 
+![](./conditional-scan.png)
