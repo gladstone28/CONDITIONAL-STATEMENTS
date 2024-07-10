@@ -1,6 +1,6 @@
 link to first lesson:
 
-https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-javascript-functions-arrays-and-loops/modules/learn-javascript-control-flow/lessons/control-flow/exercises/control-flow-intro
+[link](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-javascript-functions-arrays-and-loops/modules/learn-javascript-control-flow/lessons/control-flow/exercises/control-flow-intro)
 
 ### CONDITIONAL STATEMENTS
 
