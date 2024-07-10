@@ -24,3 +24,6 @@ We’ll be covering the following concepts:
 So if you’re ready to learn these concepts go to the next lesson— else, read over the concepts, observe the diagram, and prepare yourself for this lesson!
 
 ![](./control_flow_diagram_v5.svg)
+
+### Instructions
+Check out the diagram to see how conditionals allow us to create decision-making technology.
