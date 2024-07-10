@@ -49,7 +49,7 @@ if (conditionGoesHere) {
 ```
 Checkpoint 3 Passed
 3. Notice that the code inside the if statement ran, since 'Time to buy!' was logged to the console.
-
+Hint
 Below the sale variable declaration, but before the if statement, reassign sale to false. Run your code and observe what happens, we’ll be changing this behavior in the next exercise.
 
 There shouldn’t be anything that is printed to console after you reassign sale to false.
