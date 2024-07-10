@@ -30,7 +30,8 @@ Checkpoint 1 Passed
 1. Using the let keyword, declare a variable named sale. Assign the value true to it.
 
 To create a let variable, follow the syntax below:
-Hint
+**Hint**
+
 ```
 let sampleVar = true;
 ```
@@ -40,7 +41,8 @@ Checkpoint 2 Passed
 2. Now create an if statement. Provide the if statement a condition of sale.
 
 Inside the code block of the if statement, console.log() the string 'Time to buy!'.
-Hint
+**Hint**
+
 An if statement has 3 parts: the if keyword, a condition wrapped in parentheses (), and a code block wrapped in curly braces {}.
 ```
 if (conditionGoesHere) {
@@ -49,8 +51,9 @@ if (conditionGoesHere) {
 ```
 Checkpoint 3 Passed
 3. Notice that the code inside the if statement ran, since 'Time to buy!' was logged to the console.
-Hint
+
 Below the sale variable declaration, but before the if statement, reassign sale to false. Run your code and observe what happens, we’ll be changing this behavior in the next exercise.
+**Hint**
 
 There shouldn’t be anything that is printed to console after you reassign sale to false.
 
