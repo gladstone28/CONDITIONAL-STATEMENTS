@@ -24,4 +24,4 @@ In the example above, the else statement:
 - Has a code block that is wrapped by a set of curly braces {}.
 - The code inside the else statement code block will execute when the if statement’s condition evaluates to false.
 
-if...else statements allow us to automate solutions to yes-or-no questions, also known as binary decisions.
+if...else [statements](https://www.codecademy.com/resources/docs/javascript/statements) allow us to automate solutions to yes-or-no questions, also known as binary decisions.
